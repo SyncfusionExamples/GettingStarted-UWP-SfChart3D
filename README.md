@@ -24,7 +24,7 @@ This sample demonstrates how to create a UWP 3D chart application using the [Syn
 
 1. Open Visual Studio 2022.
 2. Select **Create a new project**.
-3. Choose **Universal Windows App (UWP) ** and click **Next**.
+3. Choose **Universal Windows App (UWP)** and click **Next**.
 4. Enter the project name (e.g., `ChartDemo`) and click **Create**.
 5. Set the **Target version** to Windows 10, version 1809 (10.0.17763) or later.
 
