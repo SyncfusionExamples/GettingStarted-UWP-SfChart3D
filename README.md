@@ -178,7 +178,7 @@ Open `MainPage.xaml` and initialize the `SfChart3D` control. Set the `DataContex
 
 The application renders a 3D column chart displaying the height of each person:
 
-![SfChart3D Getting Started Output](https://help.syncfusion.com/uwp/charts/3D-Charts_images/Charts-3D_img1.png)
+![SfChart3D Getting Started Output](Charts-3D_img1.png)
 
 ---
 
